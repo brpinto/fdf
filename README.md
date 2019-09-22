@@ -19,14 +19,14 @@ Les cartes (.fdf) sont à aller chercher dans le répertoire maps.
 
 ## Controles
 
-ESC : Fermer la fenêtre
-Z: Déplacer le maillage vers le haut
-Q: Déplacer le maillage vers la gauche
-S: Déplacer le maillage vers le bas
-D: Déplacer le maillage vers la Droite
-R: Réinitialiser le maillage
-A: Réduire le maillage
-E: Agrandir le maillage
-Flêches (haut / bas / gauche droite) : rotation sur l'axe X (haut / bas) ou Y (gauche / droite)
-I: Vue isométrique
+ESC : Fermer la fenêtre <br />
+Z: Déplacer le maillage vers le haut <br />
+Q: Déplacer le maillage vers la gauche <br />
+S: Déplacer le maillage vers le bas <br />
+D: Déplacer le maillage vers la Droite <br />
+R: Réinitialiser le maillage <br />
+A: Réduire le maillage <br />
+E: Agrandir le maillage <br />
+Flêches (haut / bas / gauche droite) : rotation sur l'axe X (haut / bas) ou Y (gauche / droite) <br />
+I: Vue isométrique <br />
 C: Changer la couleur
