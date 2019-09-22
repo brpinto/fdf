@@ -16,6 +16,22 @@ Les cartes (.fdf) sont à aller chercher dans le répertoire maps.
 ```sh
 ./fdf [map]
 ```
+## Makefile
+
+```sh
+make clean
+```
+Supprime les dossiers obj contenant les fichiers .o nécessaires à la compilation
+
+```sh
+make fclean
+```
+Supprime le dossier obj ainsi que l'executable du projet
+
+```sh
+make re
+```
+Exécute les règles clean et fclean et recompile le projet (make)
 
 ## Controles
 
