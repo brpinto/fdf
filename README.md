@@ -6,7 +6,7 @@ Le projet Fdf pour 'fils de fer' est un projet d'introduction aux possibilités 
 
 ```sh
 https://github.com/brpinto/fdf.git
-make fdf
+make
 ```
 
 ## Usage
