@@ -1,7 +1,5 @@
 <h1 align="center">Fdf</h1>
 
-## Projet
-
 Le projet Fdf pour 'fils de fer' est un projet d'introduction aux possibilités d'une librairie graphique (gestion d'une fenêtre, dessin...). L'objectif ici est de créer une présentation d'un terrain en 3D en maillage fils de fer.
 
 ## Installation
