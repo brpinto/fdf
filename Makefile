@@ -19,8 +19,8 @@ OBJ_PATH = ./srcs/obj/
 LIB_PATH = ./libft/
 INC_PATH = ./includes/
 
-MLX_HEADER = /usr/local/include
-MLX_LIB = /usr/local/lib/
+MLX_HEADER = ./minilibx_macos/include
+MLX_LIB = ./minilibx_macos/
 
 SRC_FILES = main.c			\
 			init_env.c 		\
