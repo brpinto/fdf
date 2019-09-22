@@ -43,6 +43,6 @@ D: Déplacer le maillage vers la Droite <br />
 R: Réinitialiser le maillage <br />
 A: Réduire le maillage <br />
 E: Agrandir le maillage <br />
-Flêches (haut / bas / gauche droite) : rotation sur l'axe X (haut / bas) ou Y (gauche / droite) <br />
+Flèches (haut / bas / gauche droite) : rotation sur l'axe X (haut / bas) ou Y (gauche / droite) <br />
 I: Vue isométrique <br />
 C: Changer la couleur
