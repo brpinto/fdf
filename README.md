@@ -39,7 +39,7 @@ ESC : Fermer la fenêtre <br />
 Z: Déplacer le maillage vers le haut <br />
 Q: Déplacer le maillage vers la gauche <br />
 S: Déplacer le maillage vers le bas <br />
-D: Déplacer le maillage vers la Droite <br />
+D: Déplacer le maillage vers la droite <br />
 R: Réinitialiser le maillage <br />
 A: Réduire le maillage <br />
 E: Agrandir le maillage <br />
